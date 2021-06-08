@@ -1,0 +1,71 @@
+
+import java.util.scanner
+
+Function computerPlay (){
+// ask user if they choose rock paper or scissors
+// create a random number variable 
+// assign rps each a number or groups of numbers 
+// create a switch within a switch
+// main switch is going to determine which number the random # variable landed on
+// within each case write a switch case that determines whether the user won or lost
+
+
+
+// rock beats scissors
+// paper beats rock
+// scissors beats paper
+
+0 / 0 = tie
+0 / 1 = 1
+0  / 2 = 0
+
+
+
+rock = 0
+paper = 1
+scissors = 2
+
+//i cant find any noticable patterns for this at the moment
+
+
+boolean calculate;
+// idk if i should add a boolean variable meant to check if the user didnt write a valid response with an if statement but then i would have to create a while statement
+
+var userInput = prompt ("Hello user, we are going to play a game of rock paper scissors. Rock is 0, paper is 1, and scissors is 2. Choose a number from 0-2.)
+
+rps = math.Random * 2
+
+
+if (userInput == rps){
+calculate = true;
+print ( "you tied")
+}else{
+calculate = false
+
+
+if (calculate = false){
+switch (userInput){
+  case 0:
+    // user chose rock
+    switch (rps){
+      case 1:
+      print ( "You lose")
+      case 2: 
+      print ("You win")
+  case 1:
+    // user chose paper
+    switch (rps){
+      case 0:
+      print ( "You win")
+      case 2: 
+      print ("You lose")
+      
+ 
+      
+ 
+        
+  
+
+
+
+}
