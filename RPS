@@ -44,6 +44,8 @@ print ( "you tied")
 calculate = false
 
 
+//x
+
 if (calculate = false){
 switch (userInput){
   case 0:
