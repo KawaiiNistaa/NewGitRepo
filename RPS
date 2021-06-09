@@ -20,10 +20,11 @@ Function computerPlay (){
 0  / 2 = 0
 
 
-
 rock = 0
 paper = 1
 scissors = 2
+
+
 
 //i cant find any noticable patterns for this at the moment
 
@@ -50,6 +51,7 @@ switch (userInput){
     switch (rps){
       case 1:
       print ( "You lose")
+      // paper
       case 2: 
       print ("You win")
   case 1:
